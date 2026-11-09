@@ -6,7 +6,7 @@ download and start — not a service you sign up for. Your data stays on your co
 
 Website: **[getzeff.com](https://getzeff.com)** · Contact: [info@getzeff.com](mailto:info@getzeff.com)
 
-This repository holds the prebuilt alpha releases of Zeff — no source code.
+This repository holds the prebuilt alpha releases of Zeff. Its source code: **[github.com/269652/Zeff](https://github.com/269652/Zeff)** (each release is built from the tag of the same name there).
 
 ## Download
 
@@ -43,6 +43,13 @@ Things change fast and can break — keep the backups switched on.
 
 ## Licence
 
-Free for personal, non-commercial use during alpha and beta (versions below 1.0); from 1.0 on, Zeff is paid. Commercial
-use needs a licence. The terms are in [LICENSE](LICENSE); questions and commercial licences:
-[info@getzeff.com](mailto:info@getzeff.com).
+Zeff is **dual-licensed** — the same as its [source code](https://github.com/269652/Zeff):
+
+- **[GNU AGPL-3.0](LICENSE)** (`AGPL-3.0-only`), the default: free to use, study, change and share, for any purpose —
+  at home and at work. If you pass on a modified Zeff, or offer it to others over a network, you share its source under
+  the AGPL too.
+- **[Zeff Commercial Licence](COMMERCIAL-LICENSE.md)**: for building Zeff into a closed product or service, or keeping
+  changes private — with support. Questions and commercial licences: [info@getzeff.com](mailto:info@getzeff.com).
+
+The details, side by side: [LICENSING.md](LICENSING.md). This applies to every release here, the earlier ones (first
+published under the "Zeff Alpha and Beta Licence") included.
